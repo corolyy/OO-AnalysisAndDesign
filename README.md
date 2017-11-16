@@ -3,3 +3,4 @@
 1. [fundamental](http://www.jianshu.com/p/acd9cb2876a4)
 2. [requirements](http://www.jianshu.com/p/4d99e8858350)
 3. [req change](http://www.jianshu.com/p/19ebc625ba7a)
+4. [analysis](http://www.jianshu.com/p/3d0b3fea50ce)
