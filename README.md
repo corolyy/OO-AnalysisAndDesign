@@ -6,3 +6,4 @@
 4. [analysis](http://www.jianshu.com/p/3d0b3fea50ce)
 5. [proper design](http://www.jianshu.com/p/4b0ab200f16d)
 5. [OO disaster](http://www.jianshu.com/p/875beaebbfa6)
+5. [flexible software](http://www.jianshu.com/p/4af6581b9978)
