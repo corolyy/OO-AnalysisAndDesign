@@ -7,4 +7,4 @@
 5. [proper design](http://www.jianshu.com/p/4b0ab200f16d)
 5. [OO disaster](http://www.jianshu.com/p/875beaebbfa6)
 5. [flexible software](http://www.jianshu.com/p/4af6581b9978)
-6. [real porblem](http://www.jianshu.com/p/e357d7be3731)
+6. [how to deal with big porblem](http://www.jianshu.com/p/e357d7be3731)
