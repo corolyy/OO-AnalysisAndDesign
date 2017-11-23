@@ -8,4 +8,4 @@
 5. [OO disaster](http://www.jianshu.com/p/875beaebbfa6)
 5. [flexible software](http://www.jianshu.com/p/4af6581b9978)
 6. [how to deal with big porblem](http://www.jianshu.com/p/e357d7be3731)
-7. [architechture](http://www.jianshu.com/p/1f98780ce533)
+7. [architechture: Bringing order to chaos](http://www.jianshu.com/p/1f98780ce533)
