@@ -9,4 +9,4 @@
 5. [flexible software](http://www.jianshu.com/p/4af6581b9978)
 6. [how to deal with big porblem](http://www.jianshu.com/p/e357d7be3731)
 7. [architechture: Bringing order to chaos](http://www.jianshu.com/p/1f98780ce533)
-8. [design principle](http://www.jianshu.com/p/62783e4cadfb)
+8. [design principle: maintain flexibility extendability](http://www.jianshu.com/p/62783e4cadfb)
