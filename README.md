@@ -11,3 +11,4 @@
 7. [architechture: Bringing order to chaos](http://www.jianshu.com/p/1f98780ce533)
 8. [design principle: maintain flexibility extendability](http://www.jianshu.com/p/62783e4cadfb)
 9. [iteration&test](http://www.jianshu.com/p/53bf3de8698a)
+x. [anti-pattern](http://www.jianshu.com/p/ce3385628bb1)
